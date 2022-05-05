@@ -1,0 +1,2 @@
+# trendyol-academy
+Student resources
