@@ -7,7 +7,7 @@ Student resources
 * Build tools & CI
   * [Setup project from scratch (1 session)](Sessions/01-setup-project)
   * [Java build tools: Maven (1 session)](Sessions/02-java-build-tools)
-* Pair programming (1 session + simple kata)
+* [Pair programming](Sessions/03-pair-programming)
 * TDD & Unit Testing strategies
   * [TDD Basics (2 sessions)](Sessions/04-05-TDD-basics)
   * [Transformation Priority Premise (1 session)](Sessions/06-TPP)
