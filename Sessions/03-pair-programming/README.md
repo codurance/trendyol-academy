@@ -1,6 +1,6 @@
 # Pair Programming
 
-* [Slides deck](Pair%20Programming%20-%20English.pdf)
+* [Slides deck](Pair%20Programming%20-%20Extended.pdf)
 
 ## Other resources
 
