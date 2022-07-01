@@ -11,7 +11,7 @@ Student resources
 * TDD & Unit Testing strategies
   * [TDD Basics (2 sessions)](Sessions/04-05-TDD-basics)
   * [Transformation Priority Premise (1 session)](Sessions/06-TPP)
-* Clean code & object orientes principles
+* Clean code & object oriented principles
   * [Object Calisthenics (2 sessions)](Sessions/07-08-calisthenics)
   * [Coupling/Cohesion/SOLID principles (1 session)](Sessions/09-coupling-cohesion)
   * [Code Smells (1 session)](Sessions/10-code-smells)
