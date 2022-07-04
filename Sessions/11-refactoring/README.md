@@ -7,6 +7,7 @@
 ## Useful links
 
 * [Refactoring techniques explained](https://refactoring.guru/refactoring/techniques)
+* [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 
 ## Exercises
 
