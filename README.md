@@ -17,7 +17,6 @@ Student resources
   * [Code Smells (1 session)](Sessions/10-code-smells)
 * Refactoring & Refactoring to Patterns
   * [Refactoring (1 session)](Sessions/11-refactoring)
-  * [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
   * [Design patterns (2 sessions)](Sessions/12-13-design-patterns)
 * TDD 2
   * [Golden Master (2 sessions)](Sessions/14-15-Legacy-code)
