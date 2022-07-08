@@ -2,7 +2,8 @@
 
 ## Resources
 
-* [Slides deck](Session%209%20&%2010.pdf)
+* [Slides deck - First session](Session%209%20&%2010.pdf)
+* [Slides deck - Second session](Session%20%10.pdf)
 
 ## Useful links
 
