@@ -3,7 +3,7 @@
 ## Resources
 
 * [Slides deck - First session](Session%209%20&%2010.pdf)
-* [Slides deck - Second session](Session%20%10.pdf)
+* [Slides deck - Second session](Session%2010.pdf)
 
 ## Useful links
 
