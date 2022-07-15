@@ -18,7 +18,7 @@ Student resources
 * Refactoring & Refactoring to Patterns
   * [Refactoring (1 session)](Sessions/11-refactoring)
   * [Design patterns (2 sessions)](Sessions/12-13-design-patterns)
-* TDD 2
+* Dealing with Legacy Code
   * [Golden Master (2 sessions)](Sessions/14-15-Legacy-code)
   * [Test doubles (1 session)](Sessions/16-test-doubles)
 * Clean code & object oriented principles
