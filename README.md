@@ -19,7 +19,7 @@ Student resources
   * [Refactoring (1 session)](Sessions/11-refactoring)
   * [Design patterns (2 sessions)](Sessions/12-13-design-patterns)
 * Dealing with Legacy Code
-  * [Golden Master (2 sessions)](Sessions/14-15-Legacy-code)
+  * [Legacy Code (2 sessions)](Sessions/14-15-Legacy-code)
   * [Test doubles (1 session)](Sessions/16-test-doubles)
 * Clean code & object oriented principles
   * [Connascence (1 session)](Sessions/17-connascence)
