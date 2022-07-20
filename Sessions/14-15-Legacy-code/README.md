@@ -4,6 +4,12 @@
 
 * [Slides deck](Working%20with%20Legacy%20Code.pdf)
 
+## Exercises
+
+* [Trip Service](https://github.com/sandromancuso/trip-service-kata)
+* [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+* [Legacy Testing](https://github.com/cyriux/legacy-testing-kata-java)
+
 ## Videos
 
 * [All the little things, by Sandi Metz](https://youtu.be/8bZh5LMaSmE)
