@@ -2,7 +2,8 @@
 
 ## Resources
 
-* [Slides deck](Session%2013.pdf)
+* [Test doubles Slides deck](Session%2013.pdf)
+* [Outside in Slides deck](Outside-in%20Development.pdf)
 
 ## Exercise
 
