@@ -7,6 +7,7 @@
 ## Exercise
 
 * [Bank Kata](https://katalyst.codurance.com/bank)
+* [Starting point](https://github.com/franiglesias/bank)
 
 ## More resources
 
