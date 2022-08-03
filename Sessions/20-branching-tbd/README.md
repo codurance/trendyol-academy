@@ -1,5 +1,5 @@
 # Branching Strategies and Trunk Based Development
 
-#\# Resources
+## Resources
 
-* [Slides deck]()
+* [Slides deck](Git%20branching%20strategies.pdf)

@@ -24,7 +24,7 @@ Student resources
 * Clean code & object oriented principles
   * [Connascence (1 session)](Sessions/17-connascence)
 * VCS & Trunk-based development
-  * [Git basics (1 session)](Sessions/18-git-basics)
+  * [Git basics (1 session)](Sessions/19-git)
   * [Git Advanced (1 session)](Sessions/19-git-advanced)
   * [Trunk-based development & Using feature flags (1 session)](Sessions/20-branching-tbd)
 * Build tools & CI II
