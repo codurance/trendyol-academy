@@ -20,12 +20,9 @@ Student resources
   * [Design patterns (2 sessions)](Sessions/12-13-design-patterns)
 * Dealing with Legacy Code
   * [Legacy Code (2 sessions)](Sessions/14-15-Legacy-code)
-  * [Test doubles (1 session)](Sessions/16-test-doubles)
-* Clean code & object oriented principles
-  * [Connascence (1 session)](Sessions/17-connascence)
+  * [Test doubles and Outside-in TDD (3 session)](Sessions/16-test-doubles)
 * VCS & Trunk-based development
-  * [Git basics (1 session)](Sessions/19-git)
-  * [Git Advanced (1 session)](Sessions/19-git-advanced)
+  * [Git (2 sessions)](Sessions/19-git)
   * [Trunk-based development & Using feature flags (1 session)](Sessions/20-branching-tbd)
 * Build tools & CI II
   * Gitlab CI pipelines (1 session)
