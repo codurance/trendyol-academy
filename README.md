@@ -25,4 +25,4 @@ Student resources
   * [Git (2 sessions)](Sessions/19-git)
   * [Trunk-based development & Using feature flags (1 session)](Sessions/20-branching-tbd)
 * Build tools & CI II
-  * Gitlab CI pipelines (1 session)
+  * [Gitlab CI pipelines (1 session)](Sessions/21-pipelines)
